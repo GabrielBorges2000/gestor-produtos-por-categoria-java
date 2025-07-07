@@ -68,13 +68,17 @@ Produtos/
 ## ▶️ Como Compilar e Executar
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/GabrielBorges2000/gestor-produtos-por-categoria-java.git
-   ```
+
+```bash
+git clone https://github.com/GabrielBorges2000/gestor-produtos-por-categoria-java.git
+```
+
 2. Navegue até o diretório do projeto:
-   ```bash
-   cd gestor-produtos-por-categoria-java
-   ```
+
+```bash
+cd gestor-produtos-por-categoria-java
+```
+
 3. No terminal, compile os arquivos Java:
 
 ```bash
