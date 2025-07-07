@@ -67,10 +67,24 @@ Produtos/
 
 ## ▶️ Como Compilar e Executar
 
-1. No terminal do VSCode, compile os arquivos Java:
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/GabrielBorges2000/gestor-produtos-por-categoria-java.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd gestor-produtos-por-categoria-java
+   ```
+3. No terminal, compile os arquivos Java:
 
 ```bash
 javac -d bin src/main/java/br/com/codeborges/produtos/**/*.java
+```
+
+4. No terminalm execute o programa com o comando:
+
+```bash
+java -cp bin main.java.br.com.codeborges.produtos.Main
 ```
 
 ## Uso
